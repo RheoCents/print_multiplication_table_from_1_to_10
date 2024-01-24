@@ -5,38 +5,38 @@ for i in range (11):
         for j in range (1, 11):
             print (i*j, end=' ')
     if i == 2:
-        print('')
+        print('\n')
         for j in range (1,11):
             print (i*j, end=' ')
     if i == 3:
-        print('')
+        print('\n')
         for j in range (1, 11):
             print (i*j, end=' ')
     if i == 4:
-        print('')
+        print('\n')
         for j in range (1,11):
             print (i*j, end=' ')
     if i == 5:
-        print('')
+        print('\n')
         for j in range (1, 11):
             print (i*j, end=' ')
     if i == 6:
-        print('')
+        print('\n')
         for j in range (1,11):
             print (i*j, end=' ')
     if i == 7:
-        print('')
+        print('\n')
         for j in range (1, 11):
             print (i*j, end=' ')       
     if i == 8:
-        print('')
+        print('\n')
         for j in range (1,11):
             print (i*j, end=' ')
     if i == 9:
-        print('')
+        print('\n')
         for j in range (1, 11):
             print (i*j, end=' ')
     if i == 10:
-        print('')
+        print('\n')
         for j in range (1,11):
             print (i*j, end=' ')
